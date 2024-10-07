@@ -1,4 +1,4 @@
-# Mount_St_Helens_Hydrology_Final_Project
+# **Mount St. Helens Hydrology Final Project**
 
 ![Mount_St_Helens_Eruption_Picture](https://github.com/user-attachments/assets/ed8340e5-0fd4-4cb9-9518-44b4761aaf7b)
 
